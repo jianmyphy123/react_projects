@@ -5,3 +5,6 @@
 * communicating between parent and child components
 * two-way-binding
 * component life cycle
+
+run: 
+  npm start
